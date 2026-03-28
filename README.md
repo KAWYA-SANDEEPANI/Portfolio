@@ -17,7 +17,7 @@ I enjoy learning new technologies and building projects to improve my skills.
 
 👉 https://github.com/KAWYA-SANDEEPANI/Portfolio
 
-*(Update this link if your repo name is different)*
+
 
 ---
 
@@ -25,9 +25,9 @@ I enjoy learning new technologies and building projects to improve my skills.
 
 * HTML5
 * CSS3
-*
 
-*(Add more technologies as you learn!)*
+
+
 
 ---
 
@@ -64,9 +64,6 @@ open index.html
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your portfolio here*
 
 ---
 
@@ -74,7 +71,7 @@ open index.html
 
 * GitHub: https://github.com/KAWYA-SANDEEPANI
 
-*(Add your email or LinkedIn if you want)*
+
 
 ---
 
